@@ -17,7 +17,7 @@
     {
       "binding": "DB",
       "database_name": "trade-journal",
-      "database_id": "REPLACE_WITH_D1_DATABASE_ID",
+      "database_id": "aadb4a1b-e78c-4e2b-944c-874ba35041bd",
       "migrations_dir": "migrations"
     }
   ],
